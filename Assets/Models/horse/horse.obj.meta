@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 39807f4ce9e381b4fb206d8b6334eebd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blanketsShape
+    100002: //RootNode
+    100004: horse_body1Shape
+    100006: horse_lefteyeShape
+    100008: horse_righteyeShape
+    100010: horse_saddleShape
+    400000: blanketsShape
+    400002: //RootNode
+    400004: horse_body1Shape
+    400006: horse_lefteyeShape
+    400008: horse_righteyeShape
+    400010: horse_saddleShape
+    2100000: blanketsShapeMat
+    2100002: horse_body1ShapeMat
+    2100004: horse_lefteyeShapeMat
+    2100006: horse_righteyeShapeMat
+    2100008: horse_saddleShapeMat
+    2300000: blanketsShape
+    2300002: horse_body1Shape
+    2300004: horse_lefteyeShape
+    2300006: horse_righteyeShape
+    2300008: horse_saddleShape
+    3300000: blanketsShape
+    3300002: horse_body1Shape
+    3300004: horse_lefteyeShape
+    3300006: horse_righteyeShape
+    3300008: horse_saddleShape
+    4300000: blanketsShape
+    4300002: horse_body1Shape
+    4300004: horse_lefteyeShape
+    4300006: horse_righteyeShape
+    4300008: horse_saddleShape
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanketsShapeMat
+    second: {fileID: 2100000, guid: 5f953e6bbbccc1948ad0123089a0bbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_body1ShapeMat
+    second: {fileID: 2100000, guid: 99c64e07443903140b7bace54e6acfa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_lefteyeShapeMat
+    second: {fileID: 2100000, guid: 3080d8ac8e8ea074cb1c6c6bab0ab7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_righteyeShapeMat
+    second: {fileID: 2100000, guid: fce2d4d99ee5b4d4d962501168cf92d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_saddleShapeMat
+    second: {fileID: 2100000, guid: 32f987a2b0123114bae89a66023c014d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
